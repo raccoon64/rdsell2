@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Var1="45.55.230.125 mm.fedoracommunity.org cyberwings.asia"
+Var1="123.20.192.29  mm.fedoracommunity.org cyberwings.asia"
 
 for hehe in $Var1
 do
