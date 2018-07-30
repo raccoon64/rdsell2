@@ -1,2 +1,0 @@
-# rdsell2
-remote
